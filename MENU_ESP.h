@@ -64,7 +64,7 @@ void myDelayus(uint16_t del) {
   }
 }
 
-#define PIN_ 10
+#define PIN_ 22
 #define PIN_START_BUTTON 11
 #define PIN_RIGHT_BUTTON 12
 #define PIN_DOWN_BUTTON 14

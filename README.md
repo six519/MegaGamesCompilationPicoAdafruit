@@ -45,6 +45,6 @@ GP11 -> button FIRE
 
 FOR BUZZER:
 --------------------------------
-GP10 -> Buzzer(+)
+GP22 -> Buzzer(+)
 GND -> Buzzer(-)
 ****
